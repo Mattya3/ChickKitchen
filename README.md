@@ -6,7 +6,6 @@
 gantt
     title ひよっこキッチン
     dateFormat  MM-DD
-    excludes    weekends
 
     section  
         プロジェクト開始 : milestone, m1, 2024-07-08, 0d
