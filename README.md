@@ -1,3 +1,5 @@
+start
+
 gantt
 dateFormat  MM-DD
 title ガントチャートのサンプル
