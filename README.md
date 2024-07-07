@@ -1,4 +1,4 @@
-start
+start github
 
 gantt
 dateFormat  MM-DD
