@@ -1,0 +1,24 @@
+エンドポイント(名前は仮)
+"/home"
+    GET: (おすすめ順による)レシピのリスト
+    POST: レシピの新規投稿
+    PUT: レシピの更新
+    DELETE: レシピの削除
+
+"/search/ingredient/{page}"
+    GET: {page}ページの，材料検索によるレシピのリスト
+
+"/search/category/{page}"
+    GET: {page}ページの，カテゴリー検索によるレシピのリスト
+
+"/search/leftover/{page}"
+    GET: {page}ページの，あまりもの検索によるレシピのリスト
+
+"/look/{id}"
+    GET: {id}のレシピ詳細
+
+”/account”
+    GET: 自身のユーザ参照
+    POST: 会員登録
+    PUT: ユーザ情報更新
+    DELETE: ユーザ削除
