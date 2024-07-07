@@ -19,6 +19,7 @@
             開発A :a2, after a1, 2d
             開発B :a3, after a2, 3d
             開発C :a4, after a3, 5d
+            
         section サーバサイド
             開発準備 :active, b1, 2023-02-10  , 2d
             開発A :b2, after a2 b1  , 2d
