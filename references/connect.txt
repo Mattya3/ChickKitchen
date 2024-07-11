@@ -22,3 +22,6 @@
     POST: 会員登録
     PUT: ユーザ情報更新
     DELETE: ユーザ削除
+
+"/request/category_id"
+    GET: id一覧
